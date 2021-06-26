@@ -41,6 +41,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+    <img src="https://img.icons8.com/nolan/50/json.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"/>
+  
 </p>
 
 <br/>
