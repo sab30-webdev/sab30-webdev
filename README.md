@@ -4,11 +4,12 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
-<h2 align="left">I'm a Computer Science undergraduate and a Fullstack student developer</h2>
+
+## I'm a Computer Science undergraduate and a Fullstack student developer
 
 <br/>
 
-##  About Me  
+###  About Me  
 
 - 🔭 I’m currently a student @NMAMIT
 
