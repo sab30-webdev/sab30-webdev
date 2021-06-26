@@ -3,8 +3,8 @@
   display: block;" width="340px"  height="300px" src="assets\2842680.jpg" /></div>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
-<h3 align="center">I'm a Fullstack Student Developer</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
+<h2 align="left">I'm a Computer Science undergraduate and a Fullstack student developer</h2>
 
 
 ##  About Me
