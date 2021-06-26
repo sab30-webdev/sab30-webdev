@@ -1,13 +1,14 @@
 <div ><img   style="margin-left: auto;
   margin-right: auto;
-  display: block;" width="340px"  height="300px" src="assets\2842680.jpg" /></div>
+  display: block;" width="200px"  height="200px" src="assets\icons8-github.gif" /></div>
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
 <h2 align="left">I'm a Computer Science undergraduate and a Fullstack student developer</h2>
 
+<br/>
 
-##  About Me
+##  About Me  
 
 - 🔭 I’m currently a student @NMAMIT
 
@@ -19,7 +20,9 @@
 
 - ⚡ I like to surf new technology and implement the same
 
-## 🚀 My Tech Stack , Languages and Tools:
+<br/>
+
+## 🚀 My Tech Stack , Languages and Tools: 
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
@@ -43,7 +46,7 @@
 
 <p align="left">
     <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sab30-webdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=sab30-webdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
