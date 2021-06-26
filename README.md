@@ -1,10 +1,10 @@
-<a href="#"><img  display="block"
-  margin-left="auto"
-  margin-right="auto" width="175px"  height="175px" src="https://lh5.googleusercontent.com/YvZ-YQHTRNfIoFG_ndINzu5grrUuVghqOsj-kB0AOJwOsNd5Kszf6n3HdX9IJ_wfDUlb-66BdztkLdJYbMjs=w1366-h661-rw" /></a>
+<div ><img   style="margin-left: auto;
+  margin-right: auto;
+  display: block;" width="340px"  height="300px" src="assets\2842680.jpg" /></div>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
-<h3 align="center">I'm a fullstack student developer</h3>
+<h3 align="center">I'm a Fullstack Student Developer</h3>
 
 
 ##  About Me
