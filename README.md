@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
     <img src="https://img.icons8.com/nolan/50/json.png"/>
     <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/4a90e2/api-settings.png"/>
+    
   
 </p>
 
