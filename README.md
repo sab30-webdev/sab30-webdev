@@ -6,7 +6,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
 
 ## I'm a Computer Science undergraduate and a Fullstack student developer
-### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || API's and AJAX  || Git and Github
+#### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || API's and AJAX  || Git and Github
 
 <br/>
 
