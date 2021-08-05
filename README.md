@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently a student @NMAMIT
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms , Docker and Kubernetes
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
