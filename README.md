@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms , Docker and Kubernetes
 
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking for Internship and Open source collaboration opertunities
 
 - 📫 How to reach me **sabarinath3072001@gmail.com**
 
