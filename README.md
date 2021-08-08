@@ -2,15 +2,15 @@
   margin-right: auto;
   display: block;" width="200px"  height="200px" src="assets\icons8-github.gif" /></div>
 
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabarinath</h1>
 
 ## I'm a Computer Science undergraduate and a Fullstack student developer
-#### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || API's and AJAX  || Git and Github
+
+#### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || API's and AJAX || Git and Github
 
 <br/>
 
-###  About Me  
+### About Me
 
 - 🔭 I’m currently a student @NMAMIT
 
@@ -24,11 +24,11 @@
 
 <br/>
 
-## 🚀 My Tech Stack , Languages and Tools: 
+## 🚀 My Tech Stack , Languages and Tools:
 
 <p align="left"> 
     <img src="assets\icons8-react-native (1).gif" width="48"/> 
-    <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/>
+    <img src="assets\icons8-javascript.gif" width="48"/> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
@@ -68,7 +68,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -77,8 +76,8 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 <a href = "https://www.linkedin.com/in/sabarinath3072001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:sabarinath3072001@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 </p>
-
