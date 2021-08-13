@@ -49,6 +49,7 @@
     <img src="https://img.icons8.com/color/48/000000/apollo.png"/>
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
     
   
