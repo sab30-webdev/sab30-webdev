@@ -29,6 +29,7 @@
 <p align="left"> 
     <img src="assets\icons8-react-native (1).gif" width="48"/> 
     <img src="assets\icons8-javascript.gif" width="48"/> 
+    <img src="assets\icons8-java.gif" width="48"/> 
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
@@ -53,10 +54,7 @@
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/redis.png"/>
-    <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png"/>
 
-    
-  
 </p>
 
 <br/>
