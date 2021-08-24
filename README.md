@@ -18,9 +18,11 @@
 
 - 👯 I’m looking for Internship and Open source collaboration opportunities
 
+- ⚡ I like to surf new technology and implement the same
+
 - 📫 How to reach me **sabarinath3072001@gmail.com**
 
-- ⚡ I like to surf new technology and implement the same
+
 
 <br/>
 
