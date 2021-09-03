@@ -55,6 +55,7 @@
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/redis.png"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 
 </p>
 
