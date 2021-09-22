@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 I’m currently a student @NMAMIT
+- 🔭 I’m currently a 3rd year ENGINEERING student @NMAMIT
 
 - 🌱 I’m currently learning Data Structures and Algorithms ,Advanced Javascript, Docker ,Kubernetes ...
 
