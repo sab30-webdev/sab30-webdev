@@ -6,7 +6,7 @@
 
 ## I'm a Computer Science undergraduate and a Fullstack student developer
 
-#### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || API's and AJAX || Git and Github
+#### Frontend Development with Reactjs || Backend with Nodejs and Express framework || MongoDB || REST API's || Git and Github
 
 <br/>
 
