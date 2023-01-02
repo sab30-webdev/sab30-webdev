@@ -14,10 +14,6 @@
 
 - 🔭 I’m currently a final year ENGINEERING Undergrad student @NMAMIT
 
-- 🌱 I’m currently learning Data Structures and Algorithms ,Advanced Javascript, Docker ,Kubernetes ...
-
-- 👯 I’m looking for Internship and Open source collaboration opportunities
-
 - ⚡ I like to surf new technology and implement the same
 
 - 📫 How to reach me **sabarinath3072001@gmail.com**
